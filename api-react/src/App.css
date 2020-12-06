@@ -1,0 +1,41 @@
+
+
+.nav{
+  font-size: 30px;
+
+  margin: 0 auto;
+}
+.button{
+  float: right;
+}
+.border-primary{
+  height: 100%;
+  width: 20%;
+}
+.list-user{
+  padding: 50px;
+  border-bottom:1px solid black;
+  background-color: #BDC3C7 ;
+}
+.user-name{
+  width: 80%;
+}
+.container{
+ float: right;
+}
+.text-userdata{
+  text-align: center;
+  position: absolute;
+  border: 1px solid;
+  padding: 40px;
+  top: 30%;
+  right: 30%;
+  width: 25rem;
+  height: 16rem;
+}
+.text-usercard{
+  text-align: center;
+  position: absolute;
+  top: 20%;
+  right: 33%;
+}
